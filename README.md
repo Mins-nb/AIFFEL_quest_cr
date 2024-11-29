@@ -9,15 +9,13 @@ AIFFEL_quest_cr
 │   ├── Quest01
 │   │   ├── .ipynb
 │   │   └── README.md
-|		├── Quest02
-| 	|   ├── .ipynb
 |   ├── Quest02
 |   |   ├── .ipynb
 |   |   └── README.md
 |   ├── Quest03
 |   |   ├── .ipynb
 |   |   └── README.md
-|		├── Quest04
+|   ├── Quest04
 |   |   ├── .ipynb
 |   |   └── README.md
 |   ├── Quest05
@@ -32,15 +30,58 @@ AIFFEL_quest_cr
 │   └── Quest08
 │       ├── .ipynb
 │       └── README.md
-.
-.
-.
+|
+├── Python
+│   ├── Quest01
+│   │   ├── .ipynb
+│   │   └── README.md
+|   ├── Quest02
+|   |   ├── .ipynb
+|   |   └── README.md
+|   ├── Quest03
+|   |   ├── .ipynb
+|   |   └── README.md
+|   └── Quest04
+|       ├── .ipynb
+|       └── README.md
+|
+├── Flutter
+│   ├── Quest01
+│   │   ├── .ipynb
+│   │   └── README.md
+|   ├── Quest02
+|   |   ├── .ipynb
+|   |   └── README.md
+|   ├── Quest03
+|   |   ├── .ipynb
+|   |   └── README.md
+|   ├── Quest04
+|   |   ├── .ipynb
+|   |   └── README.md
+|   └── Quest05
+|       ├── .ipynb
+|       └── README.md
+|
 └── Exploration
-    ├── Ex01
-    .
-    .
-    .
-    └── Ex07
+    ├── Quest01
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Quest02
+    |   ├── .ipynb
+    |   └── README.md
+    ├── Quest03
+    |   ├── .ipynb
+    |   └── README.md
+    ├── Quest04
+    |   ├── .ipynb
+    |   └── README.md
+    ├── Quest05
+    |   ├── .ipynb
+    |   └── README.md
+    ├── Quest06
+    |   ├── .ipynb
+    |   └── README.md
+    └── Quest07
         ├── .ipynb
         └── README.md
 ```
