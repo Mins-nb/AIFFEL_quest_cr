@@ -11,22 +11,24 @@ AIFFEL_quest_cr
 │   │   └── README.md
 |		├── Quest02
 | 	|   ├── .ipynb
-|   |
+|   ├── Quest02
+|   |   ├── .ipynb
+|   |   └── README.md
 |   ├── Quest03
 |   |   ├── .ipynb
-|   |
+|   |   └── README.md
 |		├── Quest04
 |   |   ├── .ipynb
-|   |
+|   |   └── README.md
 |   ├── Quest05
 |   |   ├── .ipynb
-|   |
+|   |   └── README.md
 |   ├── Quest06
-|   |   ├──
-|   |
+|   |   ├── .ipynb
+|   |   └── README.md
 |   ├── Quest07
-|   |   ├──
-|   |
+|   |   ├── .ipynb
+|   |   └── README.md
 │   └── Quest08
 │       ├── .ipynb
 │       └── README.md
@@ -41,3 +43,4 @@ AIFFEL_quest_cr
     └── Ex07
         ├── .ipynb
         └── README.md
+```
