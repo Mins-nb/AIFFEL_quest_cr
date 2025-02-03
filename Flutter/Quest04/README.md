@@ -1,5 +1,8 @@
-# 구조 제작
+# 프레임 제작
 ![frame](prototype.png)
+
+# 프로토타입 실행
+![prototype](prototype.gif)
 
 # 실행
 ![app](myapp.gif)
