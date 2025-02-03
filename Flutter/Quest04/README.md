@@ -1,8 +1,8 @@
 # 구조 제작
-![frame](Flutter/Quest04/prototype.png)
+![frame](Quest04/prototype.png)
 
 # 실행
-![app]([Flutter/Quest04/myapp.gif](https://github.com/Mins-nb/AIFFEL_quest_cr/blob/master/Flutter/Quest04/myapp.gif))
+![app](Quest04/myapp.gif)
 
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 코더의 이름을 작성하세요.
