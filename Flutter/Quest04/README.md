@@ -1,8 +1,8 @@
 # 구조 제작
-![frame](Quest04/prototype.png)
+![frame](prototype.png)
 
 # 실행
-![app](Quest04/myapp.gif)
+![app](myapp.gif)
 
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 코더의 이름을 작성하세요.
